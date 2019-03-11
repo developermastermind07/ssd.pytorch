@@ -158,10 +158,7 @@ We have accumulated the following to-do list, which we hope to complete in the n
   * [ ] Support for SSD512 training and testing
   * [ ] Support for training on custom datasets
 
-## Authors
 
-* [**Max deGroot**](https://github.com/amdegroot)
-* [**Ellis Brown**](http://github.com/ellisbrown)
 
 ***Note:*** Unfortunately, this is just a hobby of ours and not a full-time job, so we'll do our best to keep things up to date, but no guarantees.  That being said, thanks to everyone for your continued help and feedback as it is really appreciated. We will try to address everything as soon as possible.
 
